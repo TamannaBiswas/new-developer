@@ -110,7 +110,6 @@ nav button {
     rgb(255, 255, 255),
     rgba(255, 255, 255, 0) 100%
   );
-  width: 946px;
 }
 .development-box-content-1 {
   width: 477px;
@@ -153,7 +152,6 @@ nav button {
     rgb(255, 255, 255),
     rgba(255, 255, 255, 0) 100%
   );
-  width: 946px;
 }
 .development-box-3 {
   display: flex;
@@ -166,7 +164,6 @@ nav button {
     rgb(255, 255, 255),
     rgba(255, 255, 255, 0) 100%
   );
-  width: 946px;
 }
 /* Development styling end */
 /* Inspiration styling end */
