@@ -275,5 +275,112 @@ nav button {
 }
 /* Current styling end */
 /* Target styling start */
-
+.target {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.target-title {
+  color: rgb(13, 19, 33);
+  font-size: 32px;
+  font-weight: 800;
+  text-align: center;
+  margin: 20px 0;
+}
+.target-dis {
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.target-box {
+  box-sizing: border-box;
+  border: 1px solid rgba(13, 19, 33, 0.15);
+  border-radius: 16px;
+  margin-bottom: 20px;
+  background: rgb(255, 255, 255);
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  padding: 40px;
+}
+.target-box-dis {
+  width: 941px;
+  text-align: left;
+  margin-left: 20px;
+}
+.target-box-dis-title {
+  color: rgb(13, 19, 33);
+  font-size: 24px;
+  font-weight: 800;
+  margin: 10px 0;
+}
+.target-box-dis-dis {
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  margin-bottom: 20px;
+}
+.target-box-dis-sabdis {
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19px;
+  letter-spacing: 0%;
+  text-align: left;
+  text-decoration-line: underline;
+}
 /* Target styling end */
+/* Support styling start */
+.Support {
+  border-radius: 16px;
+  background-image: url("../assets/handshake.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 64px 48px;
+  margin: 40px 0;
+}
+.Support-contaner {
+  text-align: center;
+  padding: 40px;
+}
+.Support-title {
+  color: rgb(255, 255, 255);
+  font-size: 32px;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.Support-dis {
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.Support-disinput {
+  color: rgba(13, 19, 33, 0.4);
+  font-size: 16px;
+  font-weight: 400;
+  text-align: center;
+  box-sizing: border-box;
+  border: 1px solid rgba(13, 19, 33, 0.15);
+  border-radius: 8px;
+  background: rgb(255, 255, 255);
+  padding: 19px 20px 19px 20px;
+  width: 50%;
+}
+.Support-disinput-submit {
+  color: rgb(13, 19, 33);
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 8px;
+  padding: 17px 20px 17px 20px;
+  background: rgb(255, 255, 255);
+  border: none;
+}
+/* Support styling end */
