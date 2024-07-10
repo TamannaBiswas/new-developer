@@ -172,6 +172,7 @@ nav button {
 /* Inspiration styling end */
 .inspiration {
   text-align: center;
+  margin: 30px 0;
 }
 .inspiration h3 {
   color: rgb(13, 19, 33);
@@ -187,5 +188,92 @@ nav button {
   margin-bottom: 25px;
   text-align: center;
 }
-
+.video {
+  width: 600px;
+  height: 330px;
+  padding-top: 20px;
+  display: inline-block;
+  justify-content: center;
+  border: 1px solid #adafb5;
+  align-items: center;
+  border-radius: 5px;
+}
+.video iframe {
+  border-radius: 10px;
+}
 /* Inspiration styling end */
+/* Current styling start */
+.current {
+  text-align: center;
+  margin: 150px 0;
+}
+.current-contaner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.current-title {
+  color: rgb(13, 19, 33);
+  font-size: 32px;
+  font-weight: 800;
+  text-align: center;
+}
+.current-dis {
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin: 20px 0 60px 0;
+}
+.current-box1 {
+  width: 364px;
+  height: 299px;
+  border-radius: 16px;
+  background: rgba(255, 76, 30, 0.05);
+  padding: 40px;
+  text-align: left;
+}
+.current-box2 {
+  border-radius: 16px;
+  width: 364px;
+  height: 299px;
+  background: rgba(0, 76, 232, 0.05);
+  padding: 40px;
+  text-align: left;
+}
+.current-box3 {
+  border-radius: 16px;
+  width: 364px;
+  height: 299px;
+  background: rgba(255, 223, 0, 0.05);
+  padding: 40px;
+  text-align: left;
+}
+.current-box-title {
+  color: rgb(13, 19, 33);
+  font-size: 24px;
+  font-weight: 800;
+  text-align: left;
+  margin: 20px 0;
+}
+.current-box-dis {
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0%;
+  margin-bottom: 20px;
+}
+.current-box-sab-dis {
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 700;
+  padding: 30px 0;
+}
+/* Current styling end */
+/* Target styling start */
+
+/* Target styling end */
